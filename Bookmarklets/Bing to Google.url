@@ -1,0 +1,1 @@
+javascript:if(window.location.hostname.match(/.bing./))window.location.hostname='www.google.com';else if(window.location.hostname.match(/.google./))window.location.hostname='www.bing.com';

@@ -1,0 +1,7 @@
+{
+    // Looks like the future!!!
+    "editor.minimap.renderCharacters": false,
+    
+    // Stop that annoying sidebar auto-scroll when you close a tab
+    "explorer.autoReveal": false
+}

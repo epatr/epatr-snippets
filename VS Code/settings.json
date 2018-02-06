@@ -3,5 +3,12 @@
     "editor.minimap.renderCharacters": false,
     
     // Stop that annoying sidebar auto-scroll when you close a tab
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    
+    // Allow Emmet in Markdown
+    "emmet.excludeLanguages": [],
+    
+    // Windows Settings
+    "php.validate.executablePath": "C:/bin/php7/php.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
 }

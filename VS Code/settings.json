@@ -2,8 +2,13 @@
     // Looks like the future!!!
     "editor.minimap.renderCharacters": false,
     
+    // Stop annoying word suggestions that aren't part of a programming language
+    "editor.wordBasedSuggestions": false,
+    
     // Stop that annoying sidebar auto-scroll when you close a tab
     "explorer.autoReveal": false,
+    // Disable confirmation popup when deleting individual files
+    "explorer.confirmDelete": false,
     
     // Allow Emmet in Markdown
     "emmet.excludeLanguages": [],

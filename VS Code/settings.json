@@ -21,4 +21,7 @@
     "php.validate.executablePath": "C:/bin/php7/php.exe",
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe", // "C:\\Windows\\sysnative\\cmd.exe",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    
+    // Show hidden characters (add to Workspace settings instead of User)
+    "editor.renderWhitespace": "all"
 }
